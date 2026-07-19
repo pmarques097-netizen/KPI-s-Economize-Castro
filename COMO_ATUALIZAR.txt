@@ -1,0 +1,37 @@
+ATUALIZAÇÃO DO PROJ_KPI'S_C
+
+Esta atualização foi feita diretamente sobre o projeto que você enviou.
+
+ARQUIVOS PARA SUBSTITUIR:
+1. app.py
+2. sql\estoque.sql
+3. sql\backup_originais\estoque_oficial_atual.sql
+
+COMO APLICAR:
+1. Feche o sistema.
+2. Faça uma cópia da pasta atual, por segurança.
+3. Copie o conteúdo desta atualização para dentro da pasta PROJ_KPI'S_C.
+4. Confirme a substituição dos arquivos.
+5. Execute novamente pelo executor já existente.
+
+NÃO APAGUE:
+- pasta data
+- pasta config
+- arquivo database.json
+- bancos SQLite
+- metas
+- compradores
+- histórico
+- pasta IMPORTAR_RUPTURA
+
+DADOS PRESERVADOS:
+Como a atualização substitui somente app.py e o SQL de estoque,
+todas as informações já salvas permanecem intactas.
+
+AJUSTES:
+- Novo script oficial de estoque.
+- Valor do estoque = estoque × custo_medio_atual.
+- Fallback para custo_unit_atual.
+- Reconhecimento de classificacao_geral.
+- Progresso detalhado da atualização.
+- Etapa atual, fonte, registros, tempo e log.

@@ -1,0 +1,20 @@
+ATUALIZAÇÃO — METAS DE LOJA
+
+Foram incluídas duas novas telas:
+
+1. Metas de Loja
+- Painel executivo por filial e gerente.
+- Meta mensal de faturamento.
+- Meta de margem bruta em R$ e percentual.
+- Representatividade da entrega em percentual e valor.
+- Total global e gráfico comparativo.
+
+2. Gestão de Metas de Loja
+- Cadastro e alteração por período.
+- Inclusão e exclusão de filiais diretamente na tabela.
+- Recalculo da margem bruta em R$.
+- Status por filial.
+- Histórico de alterações.
+- Persistência em data/metas_lojas.json.
+
+Todos os dados anteriores do projeto foram preservados.

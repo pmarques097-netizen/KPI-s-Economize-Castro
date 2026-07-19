@@ -1,0 +1,10 @@
+MÓDULO CONTAS A PAGAR RECONSTRUÍDO
+
+- Conexão direta via psycopg2.
+- SQL oficial preservado.
+- SQLAlchemy não processa mais essa consulta.
+- Erro completo do PostgreSQL exibido.
+- Log salvo em data/logs/contas_pagar_erros.log.
+- Plano padrão:
+  Resultado > 03.1 - Despesas Operacionais > 2-CUSTOS VARIAVEIS > 1-C.M.V / DUPL. PAGAS
+- Cache de Contas a Pagar limpo.

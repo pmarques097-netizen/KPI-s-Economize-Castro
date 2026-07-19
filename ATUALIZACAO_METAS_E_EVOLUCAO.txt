@@ -1,0 +1,14 @@
+ALTERAÇÕES APLICADAS
+
+- Metas ausentes de 2026 preenchidas a partir de maio/2026.
+- Cada competência continua editável individualmente.
+- Metas existentes não são sobrescritas.
+- Botão para repetir o preenchimento somente em meses sem meta.
+- Evolução Comercial mantém janeiro a dezembro preenchidos.
+- Meses sem movimento exibem zero.
+- Botão Atualizar análise incluído.
+- A atualização manual reconstrói os resumos dos 12 meses.
+- A navegação continua usando tabelas-resumo para preservar performance.
+
+Metas de loja criadas nesta entrega: 11
+Metas de comprador criadas nesta entrega: 0

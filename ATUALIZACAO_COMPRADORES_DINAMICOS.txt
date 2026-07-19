@@ -1,0 +1,10 @@
+ATUALIZAÇÃO - COMPRADORES DINÂMICOS
+
+- A participação de venda não possui mais três compradores fixos no código.
+- Compradores são reconhecidos automaticamente nas bases consolidadas, ruptura, estoque, entradas e mapa de classificações.
+- Novos compradores encontrados são incluídos automaticamente no cadastro como Ativos.
+- A Gestão de Metas mostra uma tabela dinâmica com todos os compradores reconhecidos.
+- A participação meta pode ser alterada por comprador.
+- A participação real é calculada automaticamente pelo faturamento do período.
+- Gráficos, filtros, metas e premiações usam a lista dinâmica.
+- Dados, cache, metas e históricos existentes foram preservados.

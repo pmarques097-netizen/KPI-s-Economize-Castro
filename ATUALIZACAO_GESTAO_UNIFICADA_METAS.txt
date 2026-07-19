@@ -1,0 +1,27 @@
+ATUALIZAÇÃO — GESTÃO UNIFICADA DE METAS
+
+A gestão das metas foi centralizada na tela "Gestão de Metas".
+
+ABAS DISPONÍVEIS:
+1. Meta Geral
+2. Metas de Loja
+3. Metas por Comprador
+4. Histórico de Metas
+
+ALTERAÇÕES:
+- Removida do menu a tela separada "Gestão de Metas de Loja".
+- Removida do menu a tela separada "Metas por Comprador".
+- A tela executiva "Metas de Loja" foi mantida para acompanhamento.
+- Metas gerais, de loja e de comprador continuam usando os mesmos arquivos de dados existentes.
+- Períodos, históricos, status e responsáveis foram preservados.
+- Metas de loja podem ser copiadas para nova competência dentro da gestão unificada.
+- Validação da soma das curvas por comprador mantida.
+
+DADOS PRESERVADOS:
+- metas gerais;
+- metas por comprador;
+- metas de loja;
+- históricos;
+- compradores e classificações;
+- cache e bancos SQLite;
+- ruptura e configurações do PostgreSQL.

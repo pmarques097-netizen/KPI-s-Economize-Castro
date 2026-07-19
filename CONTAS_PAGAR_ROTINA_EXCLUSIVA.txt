@@ -1,0 +1,5 @@
+A consulta aprovada permanece inalterada.
+
+A atualização de Contas a Pagar agora é totalmente independente:
+consulta -> normalização -> temporária -> gravação atômica ->
+resumo por plano -> saldo em aberto -> histórico -> cache.

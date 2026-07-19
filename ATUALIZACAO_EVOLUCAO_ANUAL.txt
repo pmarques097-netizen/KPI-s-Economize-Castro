@@ -1,0 +1,9 @@
+EVOLUÇÃO COMERCIAL ANUAL
+
+- O ano atual é selecionado automaticamente.
+- A tela não obedece ao período ativo das demais visões.
+- O usuário pode alterar o ano da análise.
+- Janeiro a dezembro aparecem sempre.
+- Meses sem dados são exibidos com zero.
+- A tabela mantém Total Geral.
+- Os resumos persistentes continuam sendo utilizados para preservar performance.

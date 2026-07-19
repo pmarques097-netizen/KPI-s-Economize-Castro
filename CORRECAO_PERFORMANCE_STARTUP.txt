@@ -1,0 +1,10 @@
+CORREÇÃO DE PERFORMANCE NA ENTRADA
+
+A versão anterior criava índices no SQLite durante toda inicialização.
+Como a base possui mais de 3 milhões de registros de vendas, isso atrasava a abertura.
+
+Correções:
+- criação automática de índices removida da inicialização;
+- cache das visões aumentado para 1 hora;
+- dados e configurações preservados;
+- ambiente virtual removido do ZIP e recriado apenas na primeira execução.

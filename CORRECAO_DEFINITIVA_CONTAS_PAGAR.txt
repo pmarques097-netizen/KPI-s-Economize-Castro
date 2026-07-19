@@ -1,0 +1,17 @@
+CORREÇÃO DEFINITIVA DA EXECUÇÃO DE CONTAS A PAGAR
+
+Causa identificada:
+O SQL oficial contém o formato PostgreSQL HH24:MI:SS.
+Ao executar com sqlalchemy.text(), os trechos :MI e :SS podiam ser
+interpretados como parâmetros SQL inexistentes, provocando "Execution failed".
+
+Correção:
+- a consulta agora é executada diretamente pelo driver PostgreSQL;
+- somente :data_inicio, :data_fim e :periodo_referencia são convertidos;
+- o SQL oficial permanece intacto;
+- erros completos do PostgreSQL passam a aparecer na tela;
+- as bases da entrega permanecem limpas para nova carga;
+- metas, configurações e planos de contas foram preservados.
+
+Plano padrão:
+Resultado > 03.1 - Despesas Operacionais > 2-CUSTOS VARIAVEIS > 1-C.M.V / DUPL. PAGAS

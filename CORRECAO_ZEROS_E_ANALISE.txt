@@ -1,0 +1,7 @@
+CORREÇÕES
+
+- Corrigido NameError: np is not defined.
+- Quando o mês selecionado ainda não possui realizados no cache, o painel usa o último mês realizado disponível.
+- Um aviso identifica claramente o período selecionado e o período realizado provisório.
+- As metas continuam obedecendo ao mês selecionado.
+- Para julho/2026, o projeto atual contém realizado até maio/2026; após atualizar julho no Banco de Dados, o painel passa automaticamente a usar julho.

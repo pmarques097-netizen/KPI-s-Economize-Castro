@@ -1,0 +1,13 @@
+AJUSTES APLICADOS SEM APAGAR A BASE
+
+- Contas a Pagar Fornecedor Total usa Valor Documento por vencimento.
+- Estoque Mês usa a posição mensal e o resumo de estoque.
+- Reconstrução compatível com SQLite sem ON CONFLICT ... DO UPDATE.
+- Nenhuma base bruta foi apagada.
+- Nenhuma meta, comprador ou configuração foi removida.
+
+Competências de Contas a Pagar reconstruídas: 7
+Competências de Estoque reconstruídas: 7
+
+Posições resultantes:
+[('2026-01', 975679.04, 2077892.2831), ('2026-02', 894282.24, 2077892.2831), ('2026-03', 1167445.03, 2077892.2831), ('2026-04', 1168816.44, 2077894.6531), ('2026-05', 1165779.44, 2077894.6531), ('2026-06', 1307033.34, 2077909.0687), ('2026-07', 1215124.79, 2077909.0687)]

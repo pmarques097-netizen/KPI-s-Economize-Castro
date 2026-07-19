@@ -1,0 +1,12 @@
+CORREÇÕES APLICADAS
+
+- Julho/2026 definido como competência vigente das metas.
+- Metas gerais de julho permanecem editáveis.
+- Metas de loja de julho criadas a partir de maio: 1.
+- Metas de compradores ativos de julho criadas a partir de maio: 2.
+- Metas históricas foram preservadas.
+- Janeiro a dezembro continuam visíveis na tabela.
+- Meses zerados não aparecem nos gráficos.
+- Meses zerados não influenciam os indicadores de posição.
+- O botão Atualizar análise prioriza somente competências realizadas faltantes.
+- Para 2026, se junho e julho estiverem ausentes, somente esses meses serão consultados.

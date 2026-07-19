@@ -1,0 +1,10 @@
+ALTERAÇÕES APLICADAS
+
+1. Removido o aviso sobre cópia das metas de maio/2026.
+2. Removido o botão de preencher meses com maio/2026.
+3. Incluído seletor global de mês no menu lateral.
+4. O mês selecionado vale para telas operacionais, metas e premiações.
+5. A Análise Comercial continua independente, com seletor anual próprio.
+6. A Gestão de Metas abre no mês selecionado na lateral.
+7. Tabelas e matrizes monetárias passam a exibir Real Brasileiro (R$).
+8. Editores de metas permanecem numéricos para permitir alteração.

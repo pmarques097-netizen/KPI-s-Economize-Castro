@@ -1,0 +1,26 @@
+CORREÇÕES APLICADAS
+
+1. COMPRADORES ATIVOS
+- Cadastro de compradores ativos é a única fonte das visões atuais.
+- Sebastião permanece somente no histórico e não aparece em gráficos, filtros, metas ou premiações.
+- Metas antigas de compradores inativos foram marcadas como Inativas.
+- Classificações vinculadas a comprador inativo ficaram como Não mapeado para nova atribuição.
+
+2. PERÍODO DA GESTÃO DE METAS
+- Criado seletor único de período no topo da Gestão de Metas.
+- O mesmo período controla Meta Geral, Metas de Loja e Metas por Comprador.
+- Incluída criação/abertura de nova competência pelo calendário.
+
+3. RESUMO CEO
+- Nova visão Resumo CEO no menu.
+- Cards Meta x Realizado.
+- Gráfico consolidado.
+- Semáforo das metas.
+- Resultado por comprador ativo.
+
+VALIDAÇÕES
+- app.py compilado sem erros.
+- Inicialização Streamlit com HTTP 200.
+- AppTest: tela inicial sem exceções.
+- AppTest: Gestão de Metas sem exceções.
+- AppTest: Resumo CEO sem exceções.

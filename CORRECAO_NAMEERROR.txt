@@ -1,0 +1,12 @@
+CORREÇÃO APLICADA
+
+Erro corrigido:
+NameError: name 'vendas_df' is not defined
+
+Causa:
+O motor foi alterado para consolidar os dados diretamente no SQLite, mas o
+quadro de status ainda utilizava nomes antigos de DataFrames completos.
+
+Correção:
+O status agora usa as estruturas consolidadas vendas, estoque, entradas e
+contas. Nenhuma meta, configuração, histórico ou banco SQLite foi removido.

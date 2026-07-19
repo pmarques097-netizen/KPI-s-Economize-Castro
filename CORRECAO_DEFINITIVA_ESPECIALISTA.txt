@@ -1,0 +1,9 @@
+CONTAS A PAGAR - CORREÇÃO DEFINITIVA
+
+- conexão realmente direta via psycopg2.connect;
+- removida dependência de raw_connection do SQLAlchemy;
+- import traceback corrigido;
+- erro original do PostgreSQL não é mais embrulhado;
+- botão exclusivo para testar a consulta antes de gravar;
+- SQL final e erro técnico ficam em data/logs;
+- cache antigo de Contas a Pagar removido.

@@ -1,0 +1,22 @@
+EVOLUÇÃO COMERCIAL MÊS A MÊS
+
+A tela Análise Comercial agora segue a mesma dinâmica do PDF:
+
+- indicadores nas linhas;
+- competências nas colunas;
+- Total Geral ao final;
+- Venda geral;
+- Custo Médio Geral;
+- Entrada geral;
+- CMV Geral;
+- Custo Médio - Entrada;
+- Lucro Bruto;
+- Margem de Contribuição;
+- Pagamento de Fornecedor;
+- Custo Médio - Pagamento de Fornecedor;
+- Contas a Pagar Fornecedor Total;
+- Estoque Mês;
+- Estoque - Contas a Pagar.
+
+O plano de contas padrão e os planos adicionais permanecem editáveis.
+Os resumos continuam persistentes para preservar a performance.

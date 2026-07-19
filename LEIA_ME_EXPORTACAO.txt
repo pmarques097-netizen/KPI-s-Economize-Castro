@@ -1,0 +1,19 @@
+VERSÃO ENTERPRISE - EXPORTAÇÃO PDF E EXCEL
+
+ABRIR O SISTEMA:
+- Dê dois cliques em INICIAR_REDE_ECONOMIZE.vbs.
+- O executor verifica e instala automaticamente reportlab, openpyxl e as demais dependências.
+- Nenhuma janela de CMD precisa permanecer aberta.
+
+ENCERRAR:
+- Dê dois cliques em PARAR_REDE_ECONOMIZE.vbs.
+
+EXPORTAÇÃO:
+- Em qualquer tela, abra "Exportar esta tela".
+- Clique em "Gerar PDF e Excel desta tela".
+- Baixe o PDF ou o Excel.
+
+LOGS:
+- data\logs\launcher.log
+- data\logs\streamlit_saida.log
+- data\logs\streamlit_erro.log

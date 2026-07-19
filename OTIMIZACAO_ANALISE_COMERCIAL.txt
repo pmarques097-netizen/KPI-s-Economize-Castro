@@ -1,0 +1,12 @@
+OTIMIZAÇÃO DA ANÁLISE COMERCIAL
+
+A tela deixou de carregar as bases brutas:
+- Vendas: 3.071.409 registros
+- Entradas: 405.641 registros
+
+Agora utiliza tabelas persistentes pequenas:
+- analise_vendas_resumo: 161 linhas
+- analise_entradas_resumo: 162 linhas
+- analise_contas_resumo: 0 linhas
+
+Os resumos são atualizados automaticamente apenas quando a fonte/período é atualizado.

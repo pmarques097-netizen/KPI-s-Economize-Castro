@@ -1,0 +1,18 @@
+CONSULTA OFICIAL DE CONTAS A PAGAR APLICADA
+
+A consulta enviada foi salva em:
+sql/contas_pagar.sql
+
+Adaptações realizadas:
+- período dinâmico com :data_inicio e :data_fim;
+- datas mantidas como DATE;
+- valores mantidos como NUMERIC;
+- fornecedor, unidade e plano de contas preservados;
+- valor_pago e saldo_aberto incluídos;
+- pagamento mensal apurado pela data de pagamento;
+- Contas a Pagar apurado pelo saldo pendente até o fim do período;
+- todos os planos são carregados;
+- o plano de Pagamento de Fornecedores continua sendo o padrão da Análise Comercial,
+  mas pode ser substituído pela interface.
+
+O SQL permanece editável no módulo Banco de Dados.

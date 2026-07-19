@@ -1,0 +1,7 @@
+CORREÇÕES
+
+- LOG_DIR definido antes de qualquer uso.
+- Erro PostgreSQL completo exibido na tela.
+- Importação anual de Contas a Pagar por CSV adicionada.
+- CSV é separado por mês de vencimento e salvo no cache mensal.
+- Demais fontes e configurações preservadas.

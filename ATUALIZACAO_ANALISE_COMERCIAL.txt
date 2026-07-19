@@ -1,0 +1,19 @@
+NOVA TELA: ANÁLISE COMERCIAL
+
+Incluída no menu uma tela de análise baseada no modelo enviado, com:
+- Venda, custo, entrada, CMV, lucro bruto e margem por área e mês.
+- Matriz dinâmica por indicador.
+- Evolução mensal.
+- CMV por área.
+- Pagamento de fornecedor.
+- Resumo de desempenho comercial no período.
+
+PLANO DE CONTAS PADRÃO:
+Resultado > 03.1 - Despesas Operacionais > 31-PAGAMENTO FORNECEDORES > 31.2-PAGAMENTO FORNECEDOR
+
+Na própria tela é possível:
+- trocar o plano utilizado;
+- adicionar outro caminho de plano de contas;
+- definir outro plano como padrão.
+
+A configuração fica salva em config/analise_comercial.json.

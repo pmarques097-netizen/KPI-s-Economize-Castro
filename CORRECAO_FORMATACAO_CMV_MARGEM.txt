@@ -1,0 +1,10 @@
+CORREÇÃO DE FORMATAÇÃO — RESUMO CEO
+
+Campos monetários corrigidos:
+- CMV mês META
+- CMV mês Atual
+- Margem Bruta META
+- Margem Bruta Atual
+
+Esses campos agora usam R$ 100,00 no sistema, PDF analítico e Excel.
+As colunas com (%) continuam em 100,00%.

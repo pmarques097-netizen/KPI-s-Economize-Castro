@@ -1,0 +1,8 @@
+AJUSTE APLICADO
+
+O comprador agora é definido pelo caminho completo da coluna Classificação Principal, incluindo todas as subclassificações.
+
+Exemplo:
+PRINCIPAL > ÉTICOS > ETICO LINEAR
+
+A correspondência exata tem prioridade. Regras genéricas só são usadas como fallback quando não existe ambiguidade. Todos os dados, metas, configurações e bancos SQLite foram preservados.

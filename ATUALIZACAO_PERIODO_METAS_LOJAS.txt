@@ -1,0 +1,8 @@
+AJUSTE: PERÍODO EDITÁVEL NAS METAS DE LOJA
+
+- A tela Metas de Loja permite selecionar o período que será visualizado.
+- A tela Gestão de Metas de Loja permite alterar a competência de metas já cadastradas.
+- É possível mover as metas ou manter uma cópia no período original.
+- O histórico é preservado.
+- Quando a mesma filial já existir no período de destino, prevalece a meta transferida.
+- Todos os dados, caches e configurações anteriores foram mantidos.
