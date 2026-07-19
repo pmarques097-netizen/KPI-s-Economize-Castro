@@ -1,6 +1,0 @@
-CORREÇÃO APLICADA
-
-- A ruptura agora recalcula o comprador pela Classificação Principal sempre que é carregada.
-- Registros antigos gravados como "Não mapeado" são corrigidos em memória automaticamente.
-- Não é necessário importar novamente a planilha.
-- Metas, bancos SQLite, configurações, históricos e demais dados foram preservados.
