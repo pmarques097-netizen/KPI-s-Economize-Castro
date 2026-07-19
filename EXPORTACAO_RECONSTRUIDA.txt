@@ -1,7 +1,0 @@
-MÓDULO DE EXPORTAÇÃO RECONSTRUÍDO
-
-- PDF visual
-- PDF analítico
-- Excel completo
-- sem expanders aninhados
-- geração sob demanda
