@@ -1,9 +1,0 @@
-BASE RECONSTRUÍDA E VALIDADA
-
-- Uma única pasta PROJ_KPI'S_C.
-- Bancos SQLite e configurações preservados.
-- Cadastro de compradores ativos é a fonte oficial.
-- Compradores inativos não aparecem em gráficos, filtros, metas ou premiações.
-- Mapeamentos históricos continuam preservados, mas não reativam compradores.
-- Executor aguarda o Streamlit responder antes de abrir o navegador.
-- app.py validado por compilação e Streamlit AppTest.
