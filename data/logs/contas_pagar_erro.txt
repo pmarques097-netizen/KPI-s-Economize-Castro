@@ -1,0 +1,14 @@
+Competência: 2026-07
+Período SQL: 2026-07-01 até 2026-07-31
+Tipo: OperationalError
+Mensagem: connection to server at "192.168.1.30", port 5432 failed: timeout expired
+
+
+TRACEBACK:
+Traceback (most recent call last):
+  File "C:\Users\Comercial\Desktop\KPI'S CASTRO\REDE_ECONOMIZE_KPI\app.py", line 2912, in executar_contas_pagar_psycopg2
+    conexao = psycopg2.connect(**parametros)
+  File "C:\Users\Comercial\Desktop\KPI'S CASTRO\REDE_ECONOMIZE_KPI\.venv\Lib\site-packages\psycopg2\__init__.py", line 135, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server at "192.168.1.30", port 5432 failed: timeout expired
+
